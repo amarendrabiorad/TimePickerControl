@@ -1,0 +1,22 @@
+﻿<Window x:Class="TimePickerControlApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimePickerControlApp.CustomControl"
+        xmlns:vm="clr-namespace:TimePickerControlApp.ViewModel"
+        mc:Ignorable="d"     
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="194"/>
+            <ColumnDefinition Width="100"/>
+        </Grid.ColumnDefinitions>
+        <local:TimeControl Grid.Row="1" Grid.Column="0" MyTime="{Binding Time1, Mode=TwoWay}" x:Name="datePicker"/>
+    </Grid>
+</Window>

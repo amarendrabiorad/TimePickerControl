@@ -1,0 +1,144 @@
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\CustomControl\TimeControl.g.cs
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\App.g.cs
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp_MarkupCompile.cache
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp_MarkupCompile.lref
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.exe
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.deps.json
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.runtimeconfig.json
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.runtimeconfig.dev.json
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.dll
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\ref\TimePickerControlApp.dll
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.pdb
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\App.baml
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\CustomControl\TimeControl.baml
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\MainWindow.baml
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.g.resources
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.AssemblyInfoInputs.cache
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.AssemblyInfo.cs
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.csproj.CoreCompileInputs.cache
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.dll
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\ref\TimePickerControlApp.dll
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.pdb
+D:\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.genruntimeconfig.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.exe
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.deps.json
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.runtimeconfig.json
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.runtimeconfig.dev.json
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\ref\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.pdb
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\ExtendedWPFVisualTreeHelper.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\bin\Debug\net5.0-windows\Prism.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\CustomControl\TimeControl.g.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\App.g.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp_MarkupCompile.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp_MarkupCompile.lref
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\App.baml
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\CustomControl\TimeControl.baml
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.g.resources
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.AssemblyInfoInputs.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.AssemblyInfo.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.csproj.CoreCompileInputs.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.csproj.CopyComplete
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\ref\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.pdb
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.genruntimeconfig.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.exe
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.deps.json
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.runtimeconfig.json
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.runtimeconfig.dev.json
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\ref\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.pdb
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\ExtendedWPFVisualTreeHelper.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\Prism.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.csproj.AssemblyReference.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\CustomControl\TimeControl.g.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\App.g.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp_MarkupCompile.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp_MarkupCompile.lref
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\App.baml
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\CustomControl\TimeControl.baml
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.g.resources
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.AssemblyInfoInputs.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.AssemblyInfo.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.csproj.CoreCompileInputs.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.csproj.CopyComplete
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\ref\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.pdb
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.genruntimeconfig.cache
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.exe
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.deps.json
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.runtimeconfig.json
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.runtimeconfig.dev.json
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.dll
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.pdb
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\ExtendedWPFVisualTreeHelper.dll
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\Prism.dll
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.csproj.AssemblyReference.cache
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\CustomControl\TimeControl.g.cs
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\App.g.cs
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp_MarkupCompile.cache
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp_MarkupCompile.lref
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\App.baml
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\CustomControl\TimeControl.baml
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.g.resources
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.AssemblyInfoInputs.cache
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.AssemblyInfo.cs
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.csproj.CoreCompileInputs.cache
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.csproj.CopyComplete
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.dll
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\refint\TimePickerControlApp.dll
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.pdb
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.genruntimeconfig.cache
+D:\Bio Rad Work\17 May 2021 TimePickerControlApp\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\ref\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.exe
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.deps.json
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.runtimeconfig.json
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.runtimeconfig.dev.json
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\ref\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\TimePickerControlApp.pdb
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\ExtendedWPFVisualTreeHelper.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\bin\Debug\net5.0-windows\Prism.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.csproj.AssemblyReference.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\CustomControl\TimeControl.g.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\App.g.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp_MarkupCompile.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp_MarkupCompile.lref
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\App.baml
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\CustomControl\TimeControl.baml
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\MainWindow.baml
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.g.resources
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.AssemblyInfoInputs.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.AssemblyInfo.cs
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.csproj.CoreCompileInputs.cache
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.csproj.CopyComplete
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\ref\TimePickerControlApp.dll
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.pdb
+D:\Bio Rad\Issues\QSD Team\TimePickerControl\TimePickerControlApp_MVVM\TimePickerControlApp_MVVM\TimePickerControlApp\obj\Debug\net5.0-windows\TimePickerControlApp.genruntimeconfig.cache

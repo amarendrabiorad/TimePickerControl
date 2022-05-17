@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1cx54GNomJYLW5QHcNX1UVnk01RQKjSBsCERXkiTzAnmxJSyLqnVbKCkTx+LNNUL6tJj6Js/UW4ukjy4pW1cwA==",
+  "success": true,
+  "projectFilePath": "D:\\Bio Rad\\Issues\\QSD Team\\TimePickerControl\\TimePickerControlApp_MVVM\\TimePickerControlApp_MVVM\\TimePickerControlApp\\TimePickerControlApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amarendra_singh\\.nuget\\packages\\extendedwpfvisualtreehelper\\2.0.2\\extendedwpfvisualtreehelper.2.0.2.nupkg.sha512",
+    "C:\\Users\\amarendra_singh\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\amarendra_singh\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

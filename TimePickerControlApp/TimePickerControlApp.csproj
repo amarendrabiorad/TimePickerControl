@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ExtendedWPFVisualTreeHelper" Version="2.0.2" />
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.39" />
+    <PackageReference Include="Prism.Core" Version="8.1.97" />
+  </ItemGroup>
+	<ItemGroup>
+		<Resource Include="Images\stopwatch.png" />
+		<Resource Include="Images\cross.png" />
+		<Resource Include="Images\check-mark.png" />
+	</ItemGroup>
+</Project>
